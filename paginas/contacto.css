@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image:linear-gradient( to right, black, rgb(222, 219, 219), rgb(197, 197, 197), black);
+}
+
+.nav-a{
+    font-family: 'Merienda', cursive;
+    
+    
+}
+
+.nav-a:hover{
+color: #E59866;
+}
+
+
+.formulario{
+    width: 400px;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border-radius: 10px;
+    padding: 30px 30px 30px 30px;
+    background-color: rgba(0, 0, 0, 0.607);
+    box-shadow: 7px 13px 37px #000;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    padding-bottom: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+/*estilos pie de pagina */
+
+.piedepagina{
+    width: 100%;
+    background-color: black;
+    height: 300px;
+
+}
+
+
+
+.grupo1{
+    width: 100%;
+    margin-left: 100px;
+    
+    display: flex;
+    align-items: center;
+    color: white;
+
+}
+
+.logopie{
+    width: 220px;
+    height: 200px;
+    
+}
+
+.caja-2{
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+ul{
+    margin-top: 20px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 2;
+}
